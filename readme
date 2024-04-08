@@ -1,0 +1,9 @@
+配置文件是 service.json
+
+执行文件是 new2.json
+
+读取文件格式为：
+
+
+module.exports =  {
+  siteName: "XXX" }
